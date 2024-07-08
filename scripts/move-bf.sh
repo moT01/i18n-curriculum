@@ -6,6 +6,11 @@ source_file="curriculum/challenges/english/22-rosetta-code/rosetta-code-challeng
 # Define the destination directory
 destination_dir="curriculum/challenges"
 
+pwd
+ls -la
+ls -la "$destination_dir"
+ls -la "english/22-rosetta-code/rosetta-code-challenges"
+
 # Loop through all directories except _meta and english
 for dir in $(find "$destination_dir" -mindepth 1 -maxdepth 1 -type d ! -name 'english'); do
     # Copy the file to each directory
