@@ -1,5 +1,4 @@
 name: Merge camperbot PR's
-
 on:
   pull_request:
     types: [opened, synchronize]

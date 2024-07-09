@@ -1,10 +1,10 @@
-# This action creates a PR on the freeCodeCamp repo to update the i18n-curriculum submodule.
-name: Update i18n-curriculum Submodule
+# This action creates a PR on the freeCodeCamp repo to update the i18n-curriculum submodule
+# Only if the last commit to main was from camperbot
+name: Auto-update i18n-curriculum Submodule
 on:
-  workflow_dispatch:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 env:
   GITHUB_TOKEN: ${{ secrets.CROWDIN_CAMPERBOT_PAT }}
