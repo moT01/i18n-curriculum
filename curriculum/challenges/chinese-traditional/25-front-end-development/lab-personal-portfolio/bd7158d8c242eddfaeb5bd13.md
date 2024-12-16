@@ -1,7 +1,7 @@
 ---
 id: bd7158d8c242eddfaeb5bd13
 title: Build a Personal Portfolio
-challengeType: 14
+challengeType: 25
 dashedName: build-a-personal-portfolio
 demoType: onClick
 ---
@@ -313,7 +313,7 @@ assert(cssCheck.length > 0 || htmlSourceAttr.length > 0);
         </p>
         <p>
             &copy; Created for
-            <a href="https://www.freecodecamp.com/" target="_blank">freeCodeCamp <i
+            <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp <i
                     class="fab fa-free-code-camp"></i></a>
         </p>
     </footer>

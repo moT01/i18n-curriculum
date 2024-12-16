@@ -34,7 +34,7 @@ dashedName: build-a-cash-register
 |  20 ドル札  |    $20 (TWENTY)    |
 | 100 ドル札  | $100 (ONE HUNDRED) |
 
-**目標:** <a href="https://cash-register.freecodecamp.rocks" target="_blank" rel="noopener noreferrer nofollow">https://cash-register.freecodecamp.rocks</a> と似た機能を持つアプリを作成します。
+**目標:** <a href="https://cash-register.freecodecamp.rocks" target="_blank" rel="noopener noreferrer nofollow">https://cash-register.freecodecamp.rocks</a> と似た機能を持つアプリを作成してください。
 
 **ユーザーストーリー:**
 
@@ -47,7 +47,7 @@ dashedName: build-a-cash-register
 1. `price` が `3.26`、`#cash` の要素に入力された値が `100`、`cid` が `[["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.1], ["QUARTER", 4.25], ["ONE", 90], ["FIVE", 55], ["TEN", 20], ["TWENTY", 60], ["ONE HUNDRED", 100]]` の状態で、`#purchase-btn` の要素をクリックした場合、`#change-due` の要素に表示する値は `"Status: OPEN TWENTY: $60 TEN: $20 FIVE: $15 ONE: $1 QUARTER: $0.5 DIME: $0.2 PENNY: $0.04"` となります。
 1. `price` が `19.5`、`#cash` の要素に入力された値が `20`、`cid` が `[["PENNY", 0.01], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]` の状態で、`#purchase-btn` の要素をクリックした場合、`#change-due` の要素に表示する値は `"Status: INSUFFICIENT_FUNDS"` となります。
 1. `price` が `19.5`、`#cash` の要素に入力された値が `20`、`cid` が `[["PENNY", 0.01], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 1], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]` の状態で、`#purchase-btn` の要素をクリックした場合、`#change-due` の要素に表示する値は `"Status: INSUFFICIENT_FUNDS"` となります。
-1. `price` が `19.5`、`#cash` の要素に入力された値が `20`、`cid` が `[["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]` の状態で、`#purchase-btn` の要素をクリックした場合、`#change-due` の要素に表示する値は `"Status: CLOSED PENNY: $0.5"` となります。
+1. When `price` is `19.5`, the value in the `#cash` element is `20`, `cid` is `[["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]`, and the `#purchase-btn` element is clicked, the value in the `#change-due` element should be `"Status: CLOSED PENNY: $0.5"`.
 
 上記のユーザーストーリーを満たし、以下のすべてのテストが通るようにして、このプロジェクトを完成させてください。 あなた独自のアレンジを加えましょう。 ハッピーコーディング！
 
@@ -465,8 +465,9 @@ for (const [denominationName, denomination] of _money) {
   const maxCountInChange = Math.floor(changeLeft / denomination);
   // If denomination can complete required changeLeft, available amount in drawer cannot
   // equal the maximum. Otherwise count in drawer can be greater than maximum count in change.
+  let defaultAmount = denomination < 100 ? 3 : 15
   const drawerCount = _randomNumber(
-    changeLeft % denomination === 0 ? Math.min(15, maxCountInChange - 1) : 15
+    changeLeft % denomination === 0 ? Math.min(defaultAmount, maxCountInChange - 1) : defaultAmount
   );
   const amountInDrawer = drawerCount * denomination;
   _cashInDrawer.push([denominationName, amountInDrawer / 100]);

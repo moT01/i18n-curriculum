@@ -24,7 +24,7 @@ dashedName: fractions-and-decimals-extra
 
 ## --text--
 
-次のうち、Google Colaboratory で使用できない言語はどれですか？
+次のうち、Google Colaboratory のテキストフィールドで使用できる言語はどれですか？
 
 ## --answers--
 
@@ -40,7 +40,7 @@ LaTex
 
 ---
 
-サンスクリット語
+上記すべて
 
 ## --video-solution--
 

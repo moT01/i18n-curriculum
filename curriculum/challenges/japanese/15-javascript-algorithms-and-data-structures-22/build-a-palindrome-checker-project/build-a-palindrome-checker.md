@@ -12,7 +12,7 @@ dashedName: build-a-palindrome-checker
 
 **注:** **英数字以外のすべての文字** (句読点、スペース、記号) を削除する必要があります。また、回文かどうかをチェックするために、すべてを同じケース (小文字または大文字) に変換する必要があります。
 
-**目標:** <a href="https://palindrome-checker.freecodecamp.rocks" target="_blank" rel="noopener noreferrer nofollow">https://palindrome-checker.freecodecamp.rocks</a> と似た機能を持つアプリを作成します。
+**目標:** <a href="https://palindrome-checker.freecodecamp.rocks" target="_blank" rel="noopener noreferrer nofollow">https://palindrome-checker.freecodecamp.rocks</a> と似た機能を持つアプリを作成してください。
 
 **ユーザーストーリー:**
 
