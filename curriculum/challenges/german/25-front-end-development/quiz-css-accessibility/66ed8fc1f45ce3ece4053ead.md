@@ -7,7 +7,7 @@ dashedName: quiz-css-accessibility
 
 # --description--
 
-To pass the quiz, you must correctly answer at least 17 of the 20 of the questions below.
+To pass the quiz, you must correctly answer at least 9 of the 10 questions below.
 
 # --quizzes--
 
@@ -17,439 +17,234 @@ To pass the quiz, you must correctly answer at least 17 of the 20 of the questio
 
 #### --text--
 
-Placeholder question
+Why do you need to have good color contrast on your webpage?
 
 #### --distractors--
 
-Placeholder distractor 1
+To make the page more vibrant.
 
 ---
 
-Placeholder distractor 2
+To meet requirements for search engine optimization (SEO).
 
 ---
 
-Placeholder distractor 3
+To make important elements of the page stand out.
 
 #### --answer--
 
-Placeholder answer
+To make the page content accessible and readable.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following tools allows you to enter background and foreground colors and check their contrast ratio?
 
 #### --distractors--
 
-Placeholder distractor 1
+TPGi Color Contrast Analyzer
 
 ---
 
-Placeholder distractor 2
+Figma
 
 ---
 
-Placeholder distractor 3
+Canva
 
 #### --answer--
 
-Placeholder answer
+WebAIM's Color Contrast Checker
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following tools allows you to pick background and foreground colors from a live webpage and check for their contrast ratio?
 
 #### --distractors--
 
-Placeholder distractor 1
+Figma
 
 ---
 
-Placeholder distractor 2
+Canva
 
 ---
 
-Placeholder distractor 3
+WebAIM's Color Contrast Checker
 
 #### --answer--
 
-Placeholder answer
+TPGi Color Contrast Analyzer
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Why should you NOT use `display: none` and `visually: hidden` to visually hide content?
 
 #### --distractors--
 
-Placeholder distractor 1
+These methods make it so that only assistive technologies like screen readers can access the hidden content.
 
 ---
 
-Placeholder distractor 2
+These methods make it so that the content is only hidden until users move their mouse over the content.
 
 ---
 
-Placeholder distractor 3
+These methods do not work with some browsers.
 
 #### --answer--
 
-Placeholder answer
+These methods remove the content from the accessibility tree, making it impossible for screen readers to access the hidden content.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is an accessibility tree?
 
 #### --distractors--
 
-Placeholder distractor 1
+A visual representation of the layout of a webpage.
 
 ---
 
-Placeholder distractor 2
+A structure used by screen readers to read the text content of a webpage.
 
 ---
 
-Placeholder distractor 3
+A copy of the DOM tree.
 
 #### --answer--
 
-Placeholder answer
+A structure used by screen readers to interpret and interact with the content on a webpage.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following ensures that an image has a minimum width of `400px`, but becomes wider when the viewport width is greater than `1000px`?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+img {
+  width: max(400px, 10vw);
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+img {
+  width: max(400px, 30vw);
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+img {
+  width: max(400px, 20vw);
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+img {
+  width: max(400px, 40vw);
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following `scroll-behavior` value allows a smooth scrolling behavior?
 
 #### --distractors--
 
-Placeholder distractor 1
+`auto`
 
 ---
 
-Placeholder distractor 2
+`inherit`
 
 ---
 
-Placeholder distractor 3
+`revert`
 
 #### --answer--
 
-Placeholder answer
+`smooth`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following features is used to detect the user's animation preference?
 
 #### --distractors--
 
-Placeholder distractor 1
+`prefers-contrast`
 
 ---
 
-Placeholder distractor 2
+`display-mode`
 
 ---
 
-Placeholder distractor 3
+`animation`
 
 #### --answer--
 
-Placeholder answer
+`prefers-reduce-motion`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is an accessibility issue of the `placeholder` attribute in an `input` element?
 
 #### --distractors--
 
-Placeholder distractor 1
+Placeholder text prevents screen readers from reading the input label text.
 
 ---
 
-Placeholder distractor 2
+Placeholder text prevents screen readers from reading the input value.
 
 ---
 
-Placeholder distractor 3
+Placeholder text is too small to be readable.
 
 #### --answer--
 
-Placeholder answer
+Placeholder text can be confused with an actual input value.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What does the `hidden` attribute do?
 
 #### --distractors--
 
-Placeholder distractor 1
+It hides content and reveals on hover.
 
 ---
 
-Placeholder distractor 2
+It hides content only from the accessibility tree.
 
 ---
 
-Placeholder distractor 3
+It hides content visually, but the content is available in the accessibility tree.
 
 #### --answer--
 
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
-### --question--
-
-#### --text--
-
-Placeholder question
-
-#### --distractors--
-
-Placeholder distractor 1
-
----
-
-Placeholder distractor 2
-
----
-
-Placeholder distractor 3
-
-#### --answer--
-
-Placeholder answer
-
+It hides content both visually and from the accessibility tree.

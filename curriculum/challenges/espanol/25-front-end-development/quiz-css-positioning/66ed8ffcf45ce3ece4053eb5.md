@@ -7,7 +7,7 @@ dashedName: quiz-css-positioning
 
 # --description--
 
-To pass the quiz, you must correctly answer at least 17 of the 20 of the questions below.
+To pass the quiz, you must correctly answer at least 18 of the 20 questions below.
 
 # --quizzes--
 
@@ -17,439 +17,614 @@ To pass the quiz, you must correctly answer at least 17 of the 20 of the questio
 
 #### --text--
 
-Placeholder question
+Which of the following is NOT a valid value for the `position` property?
 
 #### --distractors--
 
-Placeholder distractor 1
+`fixed`
 
 ---
 
-Placeholder distractor 2
+`absolute`
 
 ---
 
-Placeholder distractor 3
+`relative`
 
 #### --answer--
 
-Placeholder answer
+`above`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is the main purpose of the `float` property in CSS?
 
 #### --distractors--
 
-Placeholder distractor 1
+Floats are used to remove an element from its normal flow on the page and automatically position it in the upper right hand side of the webpage.
 
 ---
 
-Placeholder distractor 2
+Floats are used to remove an element from its normal flow on the page and position it to the top of its container.
 
 ---
 
-Placeholder distractor 3
+Floats are used to remove an element from its normal flow on the page and automatically position it to the bottom right hand side of webpage.
 
 #### --answer--
 
-Placeholder answer
+Floats are used to remove an element from its normal flow on the page and position it either on the left or right side of its container.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is an example making a box element float to the left?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+.box {
+  left: float;
+  margin-right: 15px;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+.box {
+  position: float-left;
+  margin-right: 15px;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+.box {
+  float: left-side;
+  margin-right: 15px;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+.box {
+  float: left;
+  margin-right: 15px;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is the role of the `clear` property?
 
 #### --distractors--
 
-Placeholder distractor 1
+It is used to determine if an element needs to be moved to the bottom of the page.
 
 ---
 
-Placeholder distractor 2
+It is used to determine if an element needs to be completely cleared from the page.
 
 ---
 
-Placeholder distractor 3
+It is used to determine if an element needs to be fixed to the top of the page.
 
 #### --answer--
 
-Placeholder answer
+It is used to determine if an element needs to be moved below the floated content.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property is used to control the vertical stacking order of positioned elements that overlap on the page?
 
 #### --distractors--
 
-Placeholder distractor 1
+`position`
 
 ---
 
-Placeholder distractor 2
+`bg-green`
 
 ---
 
-Placeholder distractor 3
+`float`
 
 #### --answer--
 
-Placeholder answer
+`z-index`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is the correct syntax for relative positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+.relative {
+  position: relative-position;
+  top: 30px;
+  left: 30px;
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+.relative {
+  relative-position: relative;
+  top: 30px;
+  left: 30px;
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+.relative {
+  relative: position;
+  top: 30px;
+  left: 30px;
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+.relative {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property would you use to fix an element at a certain position on the page so that it does not move when scrolling occurs?
 
 #### --distractors--
 
-Placeholder distractor 1
+`position: no-scroll;`
 
 ---
 
-Placeholder distractor 2
+`position: relative;`
 
 ---
 
-Placeholder distractor 3
+`display: block;`
 
 #### --answer--
 
-Placeholder answer
+`position: fixed;`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What does absolute positioning do to an element?
 
 #### --distractors--
 
-Placeholder distractor 1
+Absolute positioning is used to determine if an element needs to be moved below the floated content.
 
 ---
 
-Placeholder distractor 2
+Absolute positioning is used to position the element within the normal document flow.
 
 ---
 
-Placeholder distractor 3
+Absolute positioning is used to control the vertical stacking order of positioned elements that overlap on the page.
 
 #### --answer--
 
-Placeholder answer
+Absolute positioning allows you to take an element out of the normal document flow, making it behave independently from other elements.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is NOT a valid property that you can use for absolute positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+`right`
 
 ---
 
-Placeholder distractor 2
+`bottom`
 
 ---
 
-Placeholder distractor 3
+`top`
 
 #### --answer--
 
-Placeholder answer
+`side`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is the key difference between relative and absolute positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+Absolute positioning sets the element in a sticky position while relative positioning takes an element out of the normal document flow.
 
 ---
 
-Placeholder distractor 2
+Relative positioning sets the element in a fixed position while absolute positioning takes an element out of the normal document flow.
 
 ---
 
-Placeholder distractor 3
+Absolute positioning positions the element within the normal document flow while relative positioning takes an element out of the normal document flow.
 
 #### --answer--
 
-Placeholder answer
+Relative positioning positions the element within the normal document flow while absolute positioning takes an element out of the normal document flow.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is an example of positioning a box in the upper left hand corner of the page?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+.box {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: coral;
+  width: 50px;
+  height: 50px;
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+.box {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: coral;
+  width: 50px;
+  height: 50px;
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+.box {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: coral;
+  width: 50px;
+  height: 50px;
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+.box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: coral;
+  width: 50px;
+  height: 50px;
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which positioning method allows an element to stick to a defined position only when you scroll past a certain point?
 
 #### --distractors--
 
-Placeholder distractor 1
+Float positioning.
 
 ---
 
-Placeholder distractor 2
+Fixed positioning.
 
 ---
 
-Placeholder distractor 3
+Absolute positioning.
 
 #### --answer--
 
-Placeholder answer
+Sticky positioning.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is a correct example of using sticky positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+.box {
+  sticky: position;
+  top: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+.box {
+  position: sticky-fixed;
+  top: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+.box {
+  position: sticky-top;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+.box {
+  position: sticky;
+  top: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is the difference between sticky and fixed positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+Sticky elements can only be used in table layouts while fixed elements can be used in any type of CSS layout.
 
 ---
 
-Placeholder distractor 2
+Sticky elements will always remain in the same position while fixed elements will stick to a certain point then behave like relative elements.
 
 ---
 
-Placeholder distractor 3
+Fixed elements will be positioned relative to its normal position while sticky elements will only stick to a certain point then behave like relative elements.
 
 #### --answer--
 
-Placeholder answer
+Fixed elements will remain in the same position on the screen while sticky elements will only stick to a certain point then behave like relative elements.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What problem did the `clearfix` hack solve when working with floats?
 
 #### --distractors--
 
-Placeholder distractor 1
+The `clearfix` hack helped solve the issue of floated elements being removed from the normal document flow and being placed in a fixed position on the page.
 
 ---
 
-Placeholder distractor 2
+The `clearfix` hack helped solve the issue of floated elements not being responsive in mobile and tablet layouts.
 
 ---
 
-Placeholder distractor 3
+The `clearfix` hack helped solve the issue of floated elements disappearing from the page.
 
 #### --answer--
 
-Placeholder answer
+The `clearfix` hack helped solve the issue of overlaps and collapsing in the layouts when multiple floated elements were stacked next to each other.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is a correct example for using the `clearfix` hack?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+.clearfix::before {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  clear: both;
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+.clearfix::after {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  clear: all;
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+.clearfix::before {
+  top: 30px;
+  clear: none;
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is static positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+This is used to remove an element from its normal flow on the page and automatically position it in the upper right hand side of the webpage.
 
 ---
 
-Placeholder distractor 2
+This allows you to take an element out of the normal document flow, making it behave independently from other elements.
 
 ---
 
-Placeholder distractor 3
+This allows an element to stick to a defined position only when you scroll past a certain point.
 
 #### --answer--
 
-Placeholder answer
+This is the normal flow for the document. Elements are positioned from top to bottom and left to right one after another.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is an example of setting the navbar to the top of the page using fixed positioning?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+.navbar {
+  fixed: top;
+  top: 0;
+  width: 100%;
+}
+```
 
 ---
 
-Placeholder distractor 2
+```css
+.navbar {
+  upper: fixed;
+  width: 100%;
+}
+```
 
 ---
 
-Placeholder distractor 3
+```css
+.navbar {
+  position: fixed-top;
+  top: 0;
+  width: 100%;
+}
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is a valid value to use for the `z-index` property?
 
 #### --distractors--
 
-Placeholder distractor 1
+`12.0`
 
 ---
 
-Placeholder distractor 2
+`none`
 
 ---
 
-Placeholder distractor 3
+`up`
 
 #### --answer--
 
-Placeholder answer
+`1`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is the default value of the `position` property?
 
 #### --distractors--
 
-Placeholder distractor 1
+`inherit`
 
 ---
 
-Placeholder distractor 2
+`initial`
 
 ---
 
-Placeholder distractor 3
+`relative`
 
 #### --answer--
 
-Placeholder answer
+`static`
 

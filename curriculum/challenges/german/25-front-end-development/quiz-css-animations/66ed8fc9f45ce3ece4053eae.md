@@ -7,7 +7,7 @@ dashedName: quiz-css-animations
 
 # --description--
 
-To pass the quiz, you must correctly answer at least 17 of the 20 of the questions below.
+To pass the quiz, you must correctly answer at least 18 of the 20 questions below.
 
 # --quizzes--
 
@@ -17,439 +17,472 @@ To pass the quiz, you must correctly answer at least 17 of the 20 of the questio
 
 #### --text--
 
-Placeholder question
+What is the purpose of the `transform` property in CSS?
 
 #### --distractors--
 
-Placeholder distractor 1
+To change the visibility of an element.
 
 ---
 
-Placeholder distractor 2
+To apply a visual effect to text.
 
 ---
 
-Placeholder distractor 3
+To set the dimensions of an element.
 
 #### --answer--
 
-Placeholder answer
+To modify the position, size, and shape of an element.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+How does the CSS `animation-direction` property affect an animation?
 
 #### --distractors--
 
-Placeholder distractor 1
+It specifies if an animation should be repeated.
 
 ---
 
-Placeholder distractor 2
+It sets the duration of the animation.
 
 ---
 
-Placeholder distractor 3
+It defines the speed of the animation.
 
 #### --answer--
 
-Placeholder answer
+It defines how an animation should play.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property makes an animation run 3 times?
 
 #### --distractors--
 
-Placeholder distractor 1
+`animation-repeat: 3`
 
 ---
 
-Placeholder distractor 2
+`animation-loop: 3`
 
 ---
 
-Placeholder distractor 3
+`animation-delay: 3`
 
 #### --answer--
 
-Placeholder answer
+`animation-iteration-count: 3`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS timing function makes an animation run at a consistent speed from start to end?
 
 #### --distractors--
 
-Placeholder distractor 1
+`ease`
 
 ---
 
-Placeholder distractor 2
+`ease-in`
 
 ---
 
-Placeholder distractor 3
+`ease-in-out`
 
 #### --answer--
 
-Placeholder answer
+`linear`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What does the `@keyframes` at-rule define in CSS?
 
 #### --distractors--
 
-Placeholder distractor 1
+The colors of a CSS gradient.
 
 ---
 
-Placeholder distractor 2
+The angles of a CSS rotation.
 
 ---
 
-Placeholder distractor 3
+The dimensions of an element.
 
 #### --answer--
 
-Placeholder answer
+The stages of a CSS animation.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is the purpose of the `translateX()` function in CSS?
 
 #### --distractors--
 
-Placeholder distractor 1
+It changes the opacity of the element.
 
 ---
 
-Placeholder distractor 2
+It rotates the element.
 
 ---
 
-Placeholder distractor 3
+It repositions the element vertically.
 
 #### --answer--
 
-Placeholder answer
+It repositions the element horizontally.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is NOT a potential concern with CSS animations?
 
 #### --distractors--
 
-Placeholder distractor 1
+They may cause discomfort or physical harm to certain users.
 
 ---
 
-Placeholder distractor 2
+Users may find them distracting.
 
 ---
 
-Placeholder distractor 3
+Overuse can lead to poor performance.
 
 #### --answer--
 
-Placeholder answer
+They can enhance user experience.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Where is the `@keyframes` at-rule defined?
 
 #### --distractors--
 
-Placeholder distractor 1
+Within the `body` element of an HTML file.
 
 ---
 
-Placeholder distractor 2
+Within the `head` element of an HTML file.
 
 ---
 
-Placeholder distractor 3
+Within a CSS class definition.
 
 #### --answer--
 
-Placeholder answer
+At the top level, outside of any CSS selectors.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property allows you to pause and resume an animation?
 
 #### --distractors--
 
-Placeholder distractor 1
+`animation-timing-function`
 
 ---
 
-Placeholder distractor 2
+`animation-delay`
 
 ---
 
-Placeholder distractor 3
+`animation-direction`
 
 #### --answer--
 
-Placeholder answer
+`animation-play-state`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What value should be assigned to the `animation-name` property in CSS?
 
 #### --distractors--
 
-Placeholder distractor 1
+The duration of the animation in seconds.
 
 ---
 
-Placeholder distractor 2
+The timing function used for the animation.
 
 ---
 
-Placeholder distractor 3
+The delay before the animation starts in seconds.
 
 #### --answer--
 
-Placeholder answer
+The name of the animation defined by the `@keyframes`.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What does this `@keyframe` at-rule do to the animated element?
+
+```css
+@keyframes animation {
+  0% {
+    transform: translateX(-50px);
+  }
+  100% {
+    transform: translateX(100px);
+  }
+}
+```
 
 #### --distractors--
 
-Placeholder distractor 1
+It rotates the element 90 degrees clockwise.
 
 ---
 
-Placeholder distractor 2
+It changes the color of the element to blue.
 
 ---
 
-Placeholder distractor 3
+It scales the element to 50% of its initial size and then to 100% of its initial size.
 
 #### --answer--
 
-Placeholder answer
+It moves the element horizontally from -50px to 100px, relative to its starting point.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property defines how an animation progresses over time?
 
 #### --distractors--
 
-Placeholder distractor 1
+`animation-delay`
 
 ---
 
-Placeholder distractor 2
+`animation-fill-mode`
 
 ---
 
-Placeholder distractor 3
+`animation-iteration-count`
 
 #### --answer--
 
-Placeholder answer
+`animation-timing-function`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property is used to specify that an animation should take 5 seconds to complete?
 
 #### --distractors--
 
-Placeholder distractor 1
+```css
+animation-name: 5s;
+```
 
 ---
 
-Placeholder distractor 2
+```css
+animation-delay: 5s;
+```
 
 ---
 
-Placeholder distractor 3
+```css
+animation-timing-function: 5s;
+```
 
 #### --answer--
 
-Placeholder answer
+```css
+animation-duration: 5s;
+```
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What does `50%` represent in the following CSS `@keyframe` at-rule?
+
+```css
+@keyframes animation {
+  0% {
+    transform: translateX(-50px);
+  }
+  50% {
+    transform: translateX(25px);
+  }
+  100% {
+    transform: translateX(100px);
+  }
+}
+```
 
 #### --distractors--
 
-Placeholder distractor 1
+The starting point of the animation.
 
 ---
 
-Placeholder distractor 2
+The ending point of the animation.
 
 ---
 
-Placeholder distractor 3
+The speed of the animation.
 
 #### --answer--
 
-Placeholder answer
+The halfway point of the animation.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What will happen when the property `transform: translateX(200px);` is applied?
 
 #### --distractors--
 
-Placeholder distractor 1
+The element will move 200px to the left.
 
 ---
 
-Placeholder distractor 2
+The element will move 200px to the bottom.
 
 ---
 
-Placeholder distractor 3
+The element will rotate 200 degrees clockwise.
 
 #### --answer--
 
-Placeholder answer
+The element will move 200px to the right.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+How will the animation behave if `animation-iteration-count` is set to `infinite`?
 
 #### --distractors--
 
-Placeholder distractor 1
+It will run once and stop.
 
 ---
 
-Placeholder distractor 2
+It will pause after the first iteration.
 
 ---
 
-Placeholder distractor 3
+It will stop after three iterations.
 
 #### --answer--
 
-Placeholder answer
+It will repeat indefinitely.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which `@keyframes` selector specifies the starting point of an animation?
 
 #### --distractors--
 
-Placeholder distractor 1
+`50%`
 
 ---
 
-Placeholder distractor 2
+`25%`
 
 ---
 
-Placeholder distractor 3
+`100%`
 
 #### --answer--
 
-Placeholder answer
+`0%`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What properties can be specified using the `animation` shorthand CSS property?
 
 #### --distractors--
 
-Placeholder distractor 1
+Only the name of the animation.
 
 ---
 
-Placeholder distractor 2
+The name and duration of the animation.
 
 ---
 
-Placeholder distractor 3
+The name, duration, and delay of the animation.
 
 #### --answer--
 
-Placeholder answer
+All animation properties.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property is used to apply an animation defined by an `@keyframes` at-rule?
 
 #### --distractors--
 
-Placeholder distractor 1
+`animation-duration`
 
 ---
 
-Placeholder distractor 2
+`apply`
 
 ---
 
-Placeholder distractor 3
+`translate`
 
 #### --answer--
 
-Placeholder answer
+`animation`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which CSS property allows you to set a time before the animation begins?
 
 #### --distractors--
 
-Placeholder distractor 1
+`animation-fill-mode`
 
 ---
 
-Placeholder distractor 2
+`animation-timing-function`
 
 ---
 
-Placeholder distractor 3
+`animation-iteration-count`
 
 #### --answer--
 
-Placeholder answer
+`animation-delay`
 

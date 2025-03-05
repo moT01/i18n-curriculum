@@ -7,9 +7,9 @@ dashedName: step-43
 
 # --description--
 
-The HTML for the registration form is finished. Now, you can spruce it up a bit.
+Der HTML-Code für das Anmeldeformular ist abgeschlossen. Jetzt kannst du es ein bisschen verschönern.
 
-Beginne, indem du im `body` die Schriftart auf `Tahoma` und die Schriftgröße auf `16px` änderst.
+Start by adding `Tahoma` as the font with a font size of `16px` in the `body` selector.
 
 # --hints--
 

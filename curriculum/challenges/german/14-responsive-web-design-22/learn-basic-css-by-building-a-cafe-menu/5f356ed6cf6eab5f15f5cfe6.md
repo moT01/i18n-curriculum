@@ -7,7 +7,7 @@ dashedName: step-20
 
 # --description--
 
-The `div` element is used mainly for design layout purposes unlike the other content elements you have used so far. Add a `div` element inside the `body` element and then move all the other elements inside the new `div`.
+Das `div`-Element wird im Gegensatz zu anderen Inhaltselementen, die du bisher verwendet hast, hauptsächlich für Layoutzwecke verwendet. Füge ein `div`-Element im `body`-Element hinzu und verschiebe dann alle anderen Elemente innerhalb des neuen `div`.
 
 Füge innerhalb des öffnenden `div`-Tags das `id`-Attribut mit dem Wert `menu` hinzu.
 
@@ -37,6 +37,11 @@ Dein `div`-Tag sollte innerhalb deines `body`-Elements verschachtelt sein.
 assert.equal(document.querySelector('div')?.parentElement?.tagName, 'BODY');
 ```
 
+Du solltest alle anderen Elemente in das neue `Div` verschieben.
+
+```js
+assert.lengthOf(document.querySelector('body > div#menu > main')?.children, 3);
+```
 
 # --seed--
 

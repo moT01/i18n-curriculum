@@ -37,6 +37,11 @@ Tu etiqueta `div` debe estar anidado dentro del `body`.
 assert.equal(document.querySelector('div')?.parentElement?.tagName, 'BODY');
 ```
 
+Debes mover todos los demás elementos dentro del nuevo `div`.
+
+```js
+assert.lengthOf(document.querySelector('body > div#menu > main')?.children, 3);
+```
 
 # --seed--
 

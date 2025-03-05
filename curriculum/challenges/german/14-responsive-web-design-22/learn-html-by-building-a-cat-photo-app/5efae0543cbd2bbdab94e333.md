@@ -1,6 +1,6 @@
 ---
 id: 5efae0543cbd2bbdab94e333
-title: Step 32
+title: Schritt 32
 challengeType: 0
 dashedName: step-32
 ---
@@ -45,12 +45,7 @@ Das `img`-Cats-Element sollte ein `alt`-Attribut mit dem Wert `Five cats looking
 
 ```js
 const catsImg = document.querySelectorAll('figure > img')[1];
-assert(
-  catsImg
-    .getAttribute('alt')
-    .replace(/\s+/g, ' ')
-    .match(/^Five cats looking around a field\.?$/i)
-);
+assert.match(catsImg?.getAttribute('alt')?.replace(/\s+/g, ' '), /^Five cats looking around a field\.?$/i);
 ```
 
 # --seed--

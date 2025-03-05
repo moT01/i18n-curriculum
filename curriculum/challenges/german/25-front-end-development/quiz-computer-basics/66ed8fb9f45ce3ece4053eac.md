@@ -7,7 +7,7 @@ dashedName: quiz-computer-basics
 
 # --description--
 
-To pass the quiz, you must correctly answer at least 17 of the 20 of the questions below.
+To pass the quiz, you must correctly answer at least 18 of the 20 questions below.
 
 # --quizzes--
 
@@ -17,439 +17,439 @@ To pass the quiz, you must correctly answer at least 17 of the 20 of the questio
 
 #### --text--
 
-Placeholder question
+What part of a computer is used to connect the other internal components together?
 
 #### --distractors--
 
-Placeholder distractor 1
+Processor
 
 ---
 
-Placeholder distractor 2
+Graphics Card.
 
 ---
 
-Placeholder distractor 3
+Memory
 
 #### --answer--
 
-Placeholder answer
+Motherboard
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What are browser developer tools?
 
 #### --distractors--
 
-Placeholder distractor 1
+Tools for editing browser settings and managing user profiles.
 
 ---
 
-Placeholder distractor 2
+Utilities for blocking ads and improving web page performance.
 
 ---
 
-Placeholder distractor 3
+Software for managing browser extensions and plug-ins.
 
 #### --answer--
 
-Placeholder answer
+Built-in features in browsers that help developers debug and inspect websites.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following ISP connections are typically the fastest?
 
 #### --distractors--
 
-Placeholder distractor 1
+DSL
 
 ---
 
-Placeholder distractor 2
+Satellite
 
 ---
 
-Placeholder distractor 3
+Cable
 
 #### --answer--
 
-Placeholder answer
+Fiber Optic.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is NOT a safe practice when signing in?
 
 #### --distractors--
 
-Placeholder distractor 1
+Using a fingerprint or face scanner.
 
 ---
 
-Placeholder distractor 2
+Making a long and complex password like `@ppl3_+B@nana34823`.
 
 ---
 
-Placeholder distractor 3
+Setting up two-factor authentication (2FA).
 
 #### --answer--
 
-Placeholder answer
+Using passwords based on personal information like your birthday.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is NOT a Web Browser?
 
 #### --distractors--
 
-Placeholder distractor 1
+Safari
 
 ---
 
-Placeholder distractor 2
+Opera
 
 ---
 
-Placeholder distractor 3
+Microsoft Edge.
 
 #### --answer--
 
-Placeholder answer
+Google Drive.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+When you need to edit a piece of code, which of the following are you most likely going to use?
 
 #### --distractors--
 
-Placeholder distractor 1
+Node Package Manager.
 
 ---
 
-Placeholder distractor 2
+Microsoft Edge.
 
 ---
 
-Placeholder distractor 3
+Github
 
 #### --answer--
 
-Placeholder answer
+Visual Studio Code.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is used primarily for managing files stored on a local hard drive?
 
 #### --distractors--
 
-Placeholder distractor 1
+Dropbox
 
 ---
 
-Placeholder distractor 2
+Microsoft OneDrive.
 
 ---
 
-Placeholder distractor 3
+Google Drive.
 
 #### --answer--
 
-Placeholder answer
+Windows File Explorer.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is NOT a good practice when naming files?
 
 #### --distractors--
 
-Placeholder distractor 1
+Putting an underscore or hyphen between words.
 
 ---
 
-Placeholder distractor 2
+Use a casing style such as camelCase and sticking with it.
 
 ---
 
-Placeholder distractor 3
+Putting a version number at the end of a document like `summaryReport_v2.docx`.
 
 #### --answer--
 
-Placeholder answer
+Using non-descriptive names like `file1.txt`.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What does the term "domain name" refer to?
 
 #### --distractors--
 
-Placeholder distractor 1
+A type of software that manages website files and databases.
 
 ---
 
-Placeholder distractor 2
+The physical location of a web server in a data center.
 
 ---
 
-Placeholder distractor 3
+None of the other choices.
 
 #### --answer--
 
-Placeholder answer
+The address used to identify websites on the internet.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following is a way to send a file to the Recycle Bin/Trash?
 
 #### --distractors--
 
-Placeholder distractor 1
+All of the other choices.
 
 ---
 
-Placeholder distractor 2
+Pressing the `Backspace` key on the keyboard.
 
 ---
 
-Placeholder distractor 3
+Moving it to an Archived folder.
 
 #### --answer--
 
-Placeholder answer
+Right-click on it and select the Delete/Move to trash option.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is a RAM?
 
 #### --distractors--
 
-Placeholder distractor 1
+A network protocol used for transferring files between devices.
 
 ---
 
-Placeholder distractor 2
+A permanent storage device used for saving files and applications.
 
 ---
 
-Placeholder distractor 3
+A component in a computer responsible for generating graphics and rendering images.
 
 #### --answer--
 
-Placeholder answer
+A temporary memory for fast data access by the processor.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What file type will be best suited for writing a `README` file?
 
 #### --distractors--
 
-Placeholder distractor 1
+`.php`
 
 ---
 
-Placeholder distractor 2
+`.html`
 
 ---
 
-Placeholder distractor 3
+`.json`
 
 #### --answer--
 
-Placeholder answer
+`.md`
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is an Integrated Development Environment (IDE)?
 
 #### --distractors--
 
-Placeholder distractor 1
+A platform designed for deploying and hosting web applications.
 
 ---
 
-Placeholder distractor 2
+A type of hardware device used for testing and debugging electronic circuits.
 
 ---
 
-Placeholder distractor 3
+A version control system that helps developers track changes in source code during software development.
 
 #### --answer--
 
-Placeholder answer
+A program that integrates tools for writing, debugging, and running code.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is a piece of software that allows you to look at online content called?
 
 #### --distractors--
 
-Placeholder distractor 1
+Internet Content Displayer.
 
 ---
 
-Placeholder distractor 2
+Search Engine.
 
 ---
 
-Placeholder distractor 3
+Website
 
 #### --answer--
 
-Placeholder answer
+Web Browser.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is a piece of software that lists web pages related to a user's query called?
 
 #### --distractors--
 
-Placeholder distractor 1
+Page Finder.
 
 ---
 
-Placeholder distractor 2
+Web Browser.
 
 ---
 
-Placeholder distractor 3
+Website
 
 #### --answer--
 
-Placeholder answer
+Search Engine.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+What is a set of one or more web pages under one domain name called?
 
 #### --distractors--
 
-Placeholder distractor 1
+Web Browser.
 
 ---
 
-Placeholder distractor 2
+Hyperlink
 
 ---
 
-Placeholder distractor 3
+Search Engine.
 
 #### --answer--
 
-Placeholder answer
+Website
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+To search for an exact phrase, what should you enclose your search query with?
 
 #### --distractors--
 
-Placeholder distractor 1
+Backticks
 
 ---
 
-Placeholder distractor 2
+Parentheses
 
 ---
 
-Placeholder distractor 3
+Brackets
 
 #### --answer--
 
-Placeholder answer
+Quotation marks.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which is NOT a way to install a Web Browser?
 
 #### --distractors--
 
-Placeholder distractor 1
+Using a Package Manager.
 
 ---
 
-Placeholder distractor 2
+Directly downloading from the website.
 
 ---
 
-Placeholder distractor 3
+Using an App Store like Microsoft Store.
 
 #### --answer--
 
-Placeholder answer
+Pressing the Network/Internet button in Settings.
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following formats does NOT preserve image quality after compression?
 
 #### --distractors--
 
-Placeholder distractor 1
+All of the other choices.
 
 ---
 
-Placeholder distractor 2
+PNG
 
 ---
 
-Placeholder distractor 3
+SVG
 
 #### --answer--
 
-Placeholder answer
+JPEG
 
 ### --question--
 
 #### --text--
 
-Placeholder question
+Which of the following parts can be found in the circuit board?
 
 #### --distractors--
 
-Placeholder distractor 1
+Printer and Router.
 
 ---
 
-Placeholder distractor 2
+Mouse and Keyboard.
 
 ---
 
-Placeholder distractor 3
+Hard Drive and GPU.
 
 #### --answer--
 
-Placeholder answer
+CPU and RAM.
 

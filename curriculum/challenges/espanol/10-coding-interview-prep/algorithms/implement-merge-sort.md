@@ -25,13 +25,13 @@ Por otro lado esté será el último algoritmo de ordenamiento que cubriremos aq
 `mergeSort` debe ser una función.
 
 ```js
-assert(typeof mergeSort == 'function');
+assert.isFunction(mergeSort);
 ```
 
 `mergeSort` Debería retornar un arreglo ordenado (menor a mayor).
 
 ```js
-assert(
+assert.isTrue(
   isSorted(
     mergeSort([
       1,
@@ -86,7 +86,7 @@ assert.sameMembers(
 `mergeSort`no debe de usar el método incorporada (built-in)`.sort()`.
 
 ```js
-assert(isBuiltInSortUsed());
+assert.isFalse(isBuiltInSortUsed());
 ```
 
 # --seed--
@@ -103,9 +103,14 @@ function isSorted(a){
 
 function isBuiltInSortUsed(){
   let sortUsed = false;
+  const temp = Array.prototype.sort;
   Array.prototype.sort = () => sortUsed = true;
-  mergeSort([0, 1]);
-  return !sortUsed;
+  try {
+    mergeSort([0, 1]);
+  } finally {
+    Array.prototype.sort = temp;
+  }
+  return sortUsed;
 }
 ```
 

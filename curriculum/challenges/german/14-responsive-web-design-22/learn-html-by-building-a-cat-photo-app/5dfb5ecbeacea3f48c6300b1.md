@@ -1,6 +1,6 @@
 ---
 id: 5dfb5ecbeacea3f48c6300b1
-title: Step 23
+title: Schritt 23
 challengeType: 0
 dashedName: step-23
 ---
@@ -20,7 +20,11 @@ Hier ist ein Beispiel für Listen-Elemente in einer unsortierten Liste:
 
 Bette innerhalb des `ul`-Elements drei Listen-Elemente ein, um drei Dinge anzuzeigen, die Katzen lieben:
 
-`cat nip` `laser pointers` `lasagna`
+`cat nip`
+
+`laser pointers`
+
+`lasagna`
 
 # --hints--
 
