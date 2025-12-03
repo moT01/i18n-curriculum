@@ -3,6 +3,7 @@ id: 67e6a8ecaee3ff6cec47cc3e
 title: 任務 75
 challengeType: 19
 dashedName: task-75
+lang: en-US
 ---
 
 <!-- (Audio) Jessica: I'll try to be quick so we can get back to the main agenda. -->
@@ -33,7 +34,7 @@ Jessica doesn't mention leaving the meeting.
 
 Because the team already knows about the bug.
 
-### --反饋--
+### --feedback--
 
 Jessica is explaining the bug because it might affect the team.
 
@@ -41,7 +42,7 @@ Jessica is explaining the bug because it might affect the team.
 
 Because she doesn't think the bug is important.
 
-### --反饋--
+### --feedback--
 
 Jessica thinks the issue is important, but she also wants to respect the meeting agenda.
 

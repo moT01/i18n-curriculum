@@ -3,6 +3,7 @@ id: 675ecedbb04f6ca6dd620f0e
 title: Task 76
 challengeType: 22
 dashedName: task-76
+lang: en-US
 ---
 
 <!-- (Audio) Anna: Hi Brian, I've heard about these Man-in-the-Middle attacks. -->
@@ -29,7 +30,7 @@ This is a type of cyberattack where a hacker secretly gets in the middle of two 
 
 `attacks`
 
-### --反馈--
+### --feedback--
 
 This word in the plural form means actions by hackers or criminals to harm a computer system, steal information, or cause problems.
 

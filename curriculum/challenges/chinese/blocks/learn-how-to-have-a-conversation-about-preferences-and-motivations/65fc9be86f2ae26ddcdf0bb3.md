@@ -3,6 +3,7 @@ id: 65fc9be86f2ae26ddcdf0bb3
 title: 任务 36
 challengeType: 19
 dashedName: task-36
+lang: en-US
 ---
 
 
@@ -30,7 +31,7 @@ Think about what specifically makes the team more motivated, not just the size o
 
 Taking a long break
 
-### --反馈--
+### --feedback--
 
 Consider if breaks are mentioned as a way to increase motivation.
 
@@ -42,7 +43,7 @@ Seeing the team inspired
 
 Solving problems quickly
 
-### --反馈--
+### --feedback--
 
 Reflect on whether the speed of solving problems is what Maria highlights as motivating.
 

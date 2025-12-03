@@ -3,6 +3,7 @@ id: 67cc2baefeeb9b62356d8ed7
 title: Task 50
 challengeType: 22
 dashedName: task-50
+lang: en-US
 ---
 
 <!-- REVIEW -->
@@ -53,7 +54,7 @@ This comparative adjective describes something that surpasses another in quality
 
 `more`
 
-### --フィードバック--
+### --feedback--
 
 This word is used to form the comparative of adjectives. It comes before an adjective and indicates a higher degree.
 

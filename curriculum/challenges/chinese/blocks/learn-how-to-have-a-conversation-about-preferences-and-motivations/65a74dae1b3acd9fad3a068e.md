@@ -3,6 +3,7 @@ id: 65a74dae1b3acd9fad3a068e
 title: Task 132
 challengeType: 22
 dashedName: task-132
+lang: en-US
 ---
 
 <!-- (Audio) Tom: For me, I like the idea of practicing my skills and getting recognition for my contributions. -->
@@ -31,7 +32,7 @@ This verb means to perform an activity or exercise repeatedly or regularly in or
 
 `recognition`
 
-### --反馈--
+### --feedback--
 
 This noun refers to the action or process of acknowledging someone's efforts, achievements, or qualities.
 

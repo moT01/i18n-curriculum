@@ -3,6 +3,7 @@ id: 67cc2baefeeb9b62356d8ed7
 title: Task 50
 challengeType: 22
 dashedName: task-50
+lang: en-US
 ---
 
 <!-- REVIEW -->
@@ -53,7 +54,7 @@ This comparative adjective describes something that surpasses another in quality
 
 `more`
 
-### --反饋--
+### --feedback--
 
 This word is used to form the comparative of adjectives. It comes before an adjective and indicates a higher degree.
 
@@ -61,7 +62,7 @@ This word is used to form the comparative of adjectives. It comes before an adje
 
 `easier`
 
-### --反饋--
+### --feedback--
 
 This comparative adjective means something requires less effort.
 
@@ -77,7 +78,7 @@ This comparative adjective means more pleasant or attractive.
 
 `slightly`
 
-### --反饋--
+### --feedback--
 
 This adverb means a little or to a small degree.
 
@@ -85,7 +86,7 @@ This adverb means a little or to a small degree.
 
 `as flexible`
 
-### --反饋--
+### --feedback--
 
 This phrase is used in comparisons to show equal ability to adapt. The first word is a conjunction, and the second is an adjective.
 

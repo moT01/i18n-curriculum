@@ -3,6 +3,7 @@ id: 66df6aad5cfef4692e2e2a5a
 title: 任務 74
 challengeType: 22
 dashedName: task-74
+lang: en-US
 ---
 
 <!--
@@ -32,7 +33,7 @@ A word that shows two actions happening at the same time or one action depending
 
 `more`
 
-### --反饋--
+### --feedback--
 
 A word that indicates a greater quantity or number.
 
@@ -40,7 +41,7 @@ A word that indicates a greater quantity or number.
 
 `users`
 
-### --反饋--
+### --feedback--
 
 A word that refers to the people navigating the updated interface.
 

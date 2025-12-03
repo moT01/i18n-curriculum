@@ -3,6 +3,7 @@ id: 67e2ae1300a8edcdede767db
 title: 任務 4
 challengeType: 22
 dashedName: task-4
+lang: en-US
 ---
 
 <!-- (Audio) Mark: Can I ask you about a few of them? -->
@@ -29,7 +30,7 @@ This verb is used when someone wants to get information or permission.
 
 `about`
 
-### --反饋--
+### --feedback--
 
 This preposition connects related topic or subject.
 

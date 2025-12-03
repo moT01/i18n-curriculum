@@ -3,6 +3,7 @@ id: 67e5a6e34bfc4b5af2c00ddf
 title: Task 51
 challengeType: 22
 dashedName: task-51
+lang: en-US
 ---
 
 <!-- (Audio) Jessica: Well, we've discovered a critical bug that might affect the user interface. -->
@@ -29,7 +30,7 @@ This means very serious or important. It is often used when something needs imme
 
 `affect`
 
-### --反馈--
+### --feedback--
 
 This means to change or influence something. It often describes how one thing causes a change in another.
 

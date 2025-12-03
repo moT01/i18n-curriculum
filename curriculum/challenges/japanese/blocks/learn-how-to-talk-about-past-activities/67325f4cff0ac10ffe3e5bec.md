@@ -3,6 +3,7 @@ id: 67325f4cff0ac10ffe3e5bec
 title: Task 114
 challengeType: 19
 dashedName: task-114
+lang: en-US
 ---
 
 <!-- (audio) James: It's interesting to think about it. I used to just write code without thinking much about the end user. -->
@@ -33,7 +34,7 @@ James isn't talking about future plans; he is reflecting on something he did bef
 
 A habit he continues now.
 
-### --フィードバック--
+### --feedback--
 
 James uses the phrase `used to`, which shows he is describing something he did in the past, not currently.
 

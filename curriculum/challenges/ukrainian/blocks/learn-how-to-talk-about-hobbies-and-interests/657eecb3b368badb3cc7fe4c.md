@@ -3,37 +3,30 @@ id: 657eecb3b368badb3cc7fe4c
 title: Завдання 61
 challengeType: 22
 dashedName: task-61
+lang: en-US
 ---
 
 <!-- (Audio) Sarah: I go to at least one convention every year. It's the best moment of the year for me. -->
 
 # --description--
 
-Вираз `at least` вказує на мінімальну кількість або число. Тобто не менше за цю кількість.
+`At least` is used when you want to say the smallest amount or number of something is okay or enough. Тобто не менше за цю кількість. For example:
 
-Наприклад, якщо ви кажете `I study English for at least 30 minutes every day`, значить ви приділяєте принаймні 30 хвилин на вивчення англійської мови щодня.
+`I study English for at least 30 minutes every day.` - This means you spend 30 minutes or more studying English daily, but never less than 30 minutes.
 
 # --fillInTheBlank--
 
 ## --sentence--
 
-`I go to BLANK BLANK one convention every year. It's the best moment of the year for me.`
+`I go to BLANK one convention every year. It's the best moment of the year for me.`
 
 ## --blanks--
 
-`at`
+`at least`
 
 ### --feedback--
 
-Це слово використовується як прийменник у фразі, що вказує на мінімальну кількість.
-
----
-
-`least`
-
-### --feedback--
-
-Це друге слово з виразу, що вказує на мінімальну кількість.
+These two words form an expression indicating a minimum amount.
 
 # --scene--
 

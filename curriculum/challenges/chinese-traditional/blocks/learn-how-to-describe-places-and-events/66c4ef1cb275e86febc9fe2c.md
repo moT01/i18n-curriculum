@@ -3,6 +3,7 @@ id: 66c4ef1cb275e86febc9fe2c
 title: Task 113
 challengeType: 22
 dashedName: task-113
+lang: en-US
 ---
 
 <!-- Audio Reference:
@@ -34,7 +35,7 @@ The action of showing or rendering something. This word ends in `-ing`.
 
 `running`
 
-### --反饋--
+### --feedback--
 
 Indicates the extension is active and functioning. This word ends in `-ing`.
 

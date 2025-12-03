@@ -3,6 +3,7 @@ id: 679cebb26c5d61aaed58b4db
 title: Task 79
 challengeType: 19
 dashedName: task-79
+lang: en-US
 ---
 
 <!-- (Audio) Maria: Did you hear anything about this? James: No, I didn't. What did he say? -->
@@ -33,7 +34,7 @@ He doesn't know anything about it.
 
 He already talked to the client.
 
-### --反饋--
+### --feedback--
 
 James does not mention speaking to the client.
 
@@ -41,7 +42,7 @@ James does not mention speaking to the client.
 
 He received an email about the issue.
 
-### --反饋--
+### --feedback--
 
 James states that he didn't hear anything.
 

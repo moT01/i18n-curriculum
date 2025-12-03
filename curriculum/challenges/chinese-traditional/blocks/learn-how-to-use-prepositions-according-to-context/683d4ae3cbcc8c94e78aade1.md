@@ -3,6 +3,7 @@ id: 683d4ae3cbcc8c94e78aade1
 title: 任務 19
 challengeType: 19
 dashedName: task-19
+lang: en-US
 ---
 
 <!-- (Audio) Bob: Exactly. It's in the back, next to the emergency exit. -->
@@ -29,7 +30,7 @@ Bob doesn't say the exit is blocked - he just mentions its location.
 
 That the back door needs a new lock.
 
-### --反饋--
+### --feedback--
 
 Bob doesn't mention anything about locks or a back door needing repairs.
 
@@ -37,7 +38,7 @@ Bob doesn't mention anything about locks or a back door needing repairs.
 
 That the server room needs to be cleaned.
 
-### --反饋--
+### --feedback--
 
 There is no mention of cleaning in Bob's sentence.
 

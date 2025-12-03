@@ -3,6 +3,7 @@ id: 66b56cb9ff3bfb183fa1b7db
 title: Task 83
 challengeType: 22
 dashedName: task-83
+lang: en-US
 ---
 
 <!-- (Audio) Anna: When do you think this new module will be ready? -->
@@ -29,7 +30,7 @@ This word is used to specify the module that is currently being discussed.
 
 `new`
 
-### --フィードバック--
+### --feedback--
 
 Something recent.
 

@@ -3,6 +3,7 @@ id: 683d4ae3cbcc8c94e78aade1
 title: Task 19
 challengeType: 19
 dashedName: task-19
+lang: en-US
 ---
 
 <!-- (Audio) Bob: Exactly. It's in the back, next to the emergency exit. -->
@@ -29,7 +30,7 @@ Bob doesn't say the exit is blocked - he just mentions its location.
 
 That the back door needs a new lock.
 
-### --フィードバック--
+### --feedback--
 
 Bob doesn't mention anything about locks or a back door needing repairs.
 

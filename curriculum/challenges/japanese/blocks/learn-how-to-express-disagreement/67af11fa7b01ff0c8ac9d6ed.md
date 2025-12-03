@@ -3,6 +3,7 @@ id: 67af11fa7b01ff0c8ac9d6ed
 title: Task 45
 challengeType: 19
 dashedName: task-45
+lang: en-US
 ---
 
 <!-- READING -->
@@ -47,7 +48,7 @@ To improve comfort and prevent back pain.
 
 To buy decorations for their home office.
 
-### --フィードバック--
+### --feedback--
 
 The article doesn't discuss furniture that improves decorations.
 

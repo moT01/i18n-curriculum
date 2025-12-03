@@ -3,6 +3,7 @@ id: 67e6a8ecaee3ff6cec47cc3e
 title: Task 75
 challengeType: 19
 dashedName: task-75
+lang: en-US
 ---
 
 <!-- (Audio) Jessica: I'll try to be quick so we can get back to the main agenda. -->
@@ -33,7 +34,7 @@ Jessica doesn't mention leaving the meeting.
 
 Because the team already knows about the bug.
 
-### --フィードバック--
+### --feedback--
 
 Jessica is explaining the bug because it might affect the team.
 

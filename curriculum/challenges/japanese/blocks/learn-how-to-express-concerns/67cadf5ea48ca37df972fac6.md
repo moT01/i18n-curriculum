@@ -3,6 +3,7 @@ id: 67cadf5ea48ca37df972fac6
 title: Task 124
 challengeType: 19
 dashedName: task-124
+lang: en-US
 ---
 
 <!-- (Audio) Maria: First, they really need more support. -->
@@ -33,7 +34,7 @@ Maria does not mention extending the deadline.
 
 They would like to reduce the number of tasks.
 
-### --フィードバック--
+### --feedback--
 
 Maria does not mention reducing the number of tasks.
 

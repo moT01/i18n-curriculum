@@ -3,6 +3,7 @@ id: 672e1fff03af3aeed5d7a84b
 title: Task 117
 challengeType: 19
 dashedName: task-117
+lang: en-US
 ---
 
 <!-- (Audio) Anna: That makes sense. Let's keep in touch to monitor the progress and ensure we're meeting our accessibility goals. -->
@@ -29,7 +30,7 @@ Anna expresses agreement with James, not disagreement, and wants to stay updated
 
 She thinks James' ideas are confusing and suggests focusing only on accessibility goals.
 
-### --反饋--
+### --feedback--
 
 Anna doesn't find James' ideas confusing; she agrees and wants to monitor progress on their shared goals.
 
@@ -41,7 +42,7 @@ She agrees with James and suggests they stay in contact to monitor progress.
 
 She thinks James' ideas are unnecessary and suggests stopping the project.
 
-### --反饋--
+### --feedback--
 
 Anna doesn't suggest stopping; she supports James' ideas and wants to stay updated.
 

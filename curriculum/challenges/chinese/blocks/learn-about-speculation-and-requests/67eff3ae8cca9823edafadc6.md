@@ -3,6 +3,7 @@ id: 67eff3ae8cca9823edafadc6
 title: Task 59
 challengeType: 19
 dashedName: task-59
+lang: en-US
 ---
 
 <!-- (audio) Jake: Have you checked whether all security updates were applied? -->
@@ -33,7 +34,7 @@ Jake is not asking if new updates exist.
 
 Who is responsible for security updates.
 
-### --反馈--
+### --feedback--
 
 Jake is not asking about a specific person.
 
@@ -41,7 +42,7 @@ Jake is not asking about a specific person.
 
 How security updates work.
 
-### --反馈--
+### --feedback--
 
 Jake assumes Jessica knows about security updates.
 

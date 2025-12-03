@@ -3,6 +3,7 @@ id: 657e1fd7b5ffaebc0ff4bd9f
 title: 任務 26
 challengeType: 19
 dashedName: task-26
+lang: en-US
 ---
 
 <!-- (audio) Tom: Thanks for sharing, Sophie. I want to get more organized and your tips are a great help to me. -->
@@ -33,7 +34,7 @@ Because he finds Sophie's tips helpful.
 
 For inviting him to lunch.
 
-### --反饋--
+### --feedback--
 
 He is thanking her for the advice, not for a lunch invitation.
 
@@ -41,7 +42,7 @@ He is thanking her for the advice, not for a lunch invitation.
 
 For helping him with a project.
 
-### --反饋--
+### --feedback--
 
 Tom's gratitude is related to the tips about organization, not specific project help.
 

@@ -3,6 +3,7 @@ id: 679d2dc229e6ceeadff4ed48
 title: Task 92
 challengeType: 22
 dashedName: task-92
+lang: en-US
 ---
 
 <!-- (Audio) James: Do you think we need to update the software again? If we do, it might delay other projects. -->
@@ -29,7 +30,7 @@ This word is used to avoid repeating the verb `update` from the previous sentenc
 
 `delay`
 
-### --反饋--
+### --feedback--
 
 This word means to postpone or make something happen later than planned.
 
